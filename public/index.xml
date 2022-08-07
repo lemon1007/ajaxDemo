@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message>
+    <warning>
+        Hello World,这里是xml的内容,在console里也可以看到~
+    </warning>
+</message>
